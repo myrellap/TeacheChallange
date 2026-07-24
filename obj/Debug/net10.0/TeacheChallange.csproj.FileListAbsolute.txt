@@ -1,0 +1,9 @@
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/TeacheChallange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/TeacheChallange.AssemblyInfoInputs.cache
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/TeacheChallange.AssemblyInfo.cs
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/TeacheChallange.csproj.CoreCompileInputs.cache
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/TeacheChallange.MvcApplicationPartsAssemblyInfo.cache
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/TeacheChallange.RazorAssemblyInfo.cache
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/TeacheChallange.RazorAssemblyInfo.cs
+/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/Debug/net10.0/TeacheChallange.sourcelink.json
