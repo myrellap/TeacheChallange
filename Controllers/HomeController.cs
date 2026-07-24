@@ -8,6 +8,22 @@ public class HomeController : Controller
 {
     public IActionResult Index()
     {
+        
+
+        return View();
+    }
+
+    public IActionResult About()
+    {
+         // ViewData e ViewBag servem para transportar os dados controller para a View
+        //Imagine que os dados abaixo vieram de um banco de dados 
+        ViewData["Nome"] = "Myrella Putti";
+        ViewData["Idade"] = 45;
+
+        ViewBag.Cidade = "Jaú";
+        ViewBag.UF = "SP";
+
+
         return View();
     }
 
