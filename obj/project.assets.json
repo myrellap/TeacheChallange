@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/TeacheChallange.csproj",
+      "projectUniqueName": "/Users/DS2/Documents/I4DS/TeachChallange/TeacheChallange/TeacheChallange.csproj",
       "projectName": "TeacheChallange",
-      "projectPath": "/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/TeacheChallange.csproj",
+      "projectPath": "/Users/DS2/Documents/I4DS/TeachChallange/TeacheChallange/TeacheChallange.csproj",
       "packagesPath": "/Users/DS2/.nuget/packages/",
-      "outputPath": "/Users/DS2/Downloads/I4DS/TeachChallange/TeacheChallange/obj/",
+      "outputPath": "/Users/DS2/Documents/I4DS/TeachChallange/TeacheChallange/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/DS2/.nuget/NuGet/NuGet.Config"
