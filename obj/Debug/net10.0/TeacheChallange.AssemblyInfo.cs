@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeacheChallange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+215b0529f40357f35ca49d90312cb6ec6f0df2f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+616f2978d2603fb3fe9e58f2020660875ea1e55b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeacheChallange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeacheChallange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
